@@ -1,4 +1,4 @@
-#           HP3470A_34901A_Data_ACQ_Example.py
+#           HP34970A_34901A_Data_ACQ_Example.py
 #Python Version: 2.7.13
 #Date: 08-MAY-2019
 #Author: Jarvis Hill (e-mail: hilljarvis@gmail.com)
